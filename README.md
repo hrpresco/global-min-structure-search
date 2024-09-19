@@ -12,8 +12,8 @@
 
 # Contents
 
- - notebooks/ - contains Jupyter notebooks with..
- - data/ - contains test data sets...
- - util/ - contains supporting utility code used in the notebooks
+ - ```notebooks/``` - contains Jupyter notebooks with..
+ - ```data/``` - contains test data sets...
+ - ```util/``` - contains supporting utility code used in the notebooks
 
 Research code supporting global minimum energy and structure search algorithms for inorganic clusters.
